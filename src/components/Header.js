@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import { obtenerDiferenciaYear } from './Helper';
 
 const ContenedorHeader = styled.header`
     background-color: #26c6da;
